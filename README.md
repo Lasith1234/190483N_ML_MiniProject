@@ -1,7 +1,13 @@
 # 190483N_ML_MiniProject
 
+AudioMNIST is the dataset used to create the features.
 **To both of the notebooks, link the datasets accordingly to proceed.**
 
+Label 1 - Speaker
+Label 2 - Age
+Label 3 - Gender
+Label 4 - Accent
+These would be the labels that needed to be predicted with a suggested ML model using the featured provided through the dataset.
 
 The model has been trained to classify each of the labels in different ways in order to get the highest accuracy in prediction.
 
